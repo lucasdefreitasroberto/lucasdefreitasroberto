@@ -21,25 +21,49 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&color=FCC624)
 ![](https://img.shields.io/badge/OS-WSL2-ormational?style=flat-square&logo=linux&color=0872CA&logoColor=0872CA)
 <br>
-![](https://komarev.com/ghpvc/?username=filipe1309)
+
 
 <hr>
 
 <p align="center">
-01010100 01101000 01101001 01110011 00100000 01101001 01110011 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01110100 01101000 01100101 00100000 <b><i>01101101 01100001 01100111 01101001 01100011</i></b> 00100000 01101000 01100001 01110000 01110000 01100101 01101110 01110011 00100001
+11001001 00100000 01100001 01110001 01110101 01101001 00100000 01110001 01110101 01100101 00100000 01100001 00100000 01101101 11100001 01100111 01101001 01100011 01100001 00100000 01100001 01100011 01101111 01101110 01110100 01100101 01100011 01100101 00100001 
 </p>
 
 <hr>
 
-<details>
-  <summary>Most Used Languages && GitHub Stats</summary>
+<!-- <details> -->
+  <summary>Idiomas mais usados e estatísticas do GitHub</summary>
   <br>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucasdefreitasroberto&show_icons=true&theme=dracula" alt="lucasdefreitasroberto" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdefreitasroberto_count=8&layout=compact&show_icons=true&theme=dracula" alt="lucasdefreitasroberto' top langs"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=lucasdefreitasroberto&show_icons=true&theme=dracula" alt="lucasdefreitasroberto" /> 
   </p>
-</details>
+  <br>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasdefreitasroberto&label=Profile%20views&color=0e75b6&style=flat" alt="lucasdefreitasroberto" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasdefreitasroberto" alt="lucasdefreitasroberto" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lucas-de-freitas-roberto-2b882711b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-de-freitas-roberto-2b882711b" height="30" width="40" /></a>
+<a href="https://fb.com/lucas.freeitas.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lucas.freeitas.r" height="30" width="40" /></a>
+<a href="https://discord.gg/🅻🅺#3095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="🅻🅺#3095" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasdefreitasroberto&show_icons=true&locale=en&layout=compact" alt="lucasdefreitasroberto" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasdefreitasroberto&show_icons=true&locale=en" alt="lucasdefreitasroberto" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdefreitasroberto&" alt="lucasdefreitasroberto" /></p>
+
+<!-- </details> -->
+<br>
 <br>
 
 <p>
