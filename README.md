@@ -38,41 +38,41 @@
     <img src="https://github-readme-stats.vercel.app/api?username=lucasdefreitasroberto&show_icons=true&theme=dracula" alt="lucasdefreitasroberto" /> 
   </p>
   <br>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> __________________Thunfu___________________</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasdefreitasroberto&label=Profile%20views&color=0e75b6&style=flat" alt="lucasdefreitasroberto" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lucasdefreitasroberto&label=Profile%20views&color=0e75b6&style=flat" alt="lucasdefreitasroberto" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasdefreitasroberto" alt="lucasdefreitasroberto" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasdefreitasroberto" alt="lucasdefreitasroberto" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/lucas-de-freitas-roberto-2b882711b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-de-freitas-roberto-2b882711b" height="30" width="40" /></a>
 <a href="https://fb.com/lucas.freeitas.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lucas.freeitas.r" height="30" width="40" /></a>
 <a href="https://discord.gg/🅻🅺#3095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="🅻🅺#3095" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasdefreitasroberto&show_icons=true&locale=en&layout=compact" alt="lucasdefreitasroberto" /></p>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasdefreitasroberto&show_icons=true&locale=en&layout=compact" alt="lucasdefreitasroberto" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasdefreitasroberto&show_icons=true&locale=en" alt="lucasdefreitasroberto" /></p>
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasdefreitasroberto&show_icons=true&locale=en" alt="lucasdefreitasroberto" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdefreitasroberto&" alt="lucasdefreitasroberto" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdefreitasroberto&" alt="lucasdefreitasroberto" /></p>
 
 <!-- </details> -->
 <br>
 <br>
 
-<p>
-    <a href="https://www.linkedin.com/in/lucas-de-freitas-roberto-2b882711b/" target="_blank">
-      <img align="left" alt="Linkedin" width="24px" src="assets/Linkedin.svg" />
+<p align="center" >
+    <a align="center" href="https://www.linkedin.com/in/lucas-de-freitas-roberto-2b882711b/" target="_blank">
+      <img align="center" alt="Linkedin" width="24px" src="assets/Linkedin.svg" />
     </a>
     <a href="mailto:lucasfreitas.t.2@hotmail.com
 " target="_blank">
-      <img align="left" alt="Gmail" width="26px" src="assets/Gmail.svg" />
+      <img align="center" alt="Gmail" width="26px" src="assets/Gmail.svg" />
     </a>
   
 </p>
