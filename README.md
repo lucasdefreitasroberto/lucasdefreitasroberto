@@ -2,7 +2,6 @@
 
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square&logo=amazon-aws&color=FF9900&logoColor=FF9900)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&color=777bb4&logoColor=8892BF)
-![](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat-square&logo=laravel&color=FF2D20)
 ![](https://img.shields.io/badge/Code-Lumen-informational?style=flat-square&logo=lumen&color=F4645F)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&color=F7DF1E)
