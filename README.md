@@ -8,7 +8,6 @@
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat-square&logo=javascript&color=339933&logoColor=339933)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&color=3776AB&logoColor=3776AB)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat-square&logo=go&color=00ADD8)
-<br>
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat-square&logo=mysql&color=4479A1&logoColor=2496ED)
 ![](https://img.shields.io/badge/DB-SQLServer-informational?style=flat-square&logo=microsoft-sql-server&color=CC2927&logoColor=CC2927)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat-square&logo=mongodb&color=47A248&logoColor=47A248)
@@ -44,18 +43,18 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasdefreitasroberto" alt="lucasdefreitasroberto" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
 
+<hr>
  <div align="center" >
 <img src="https://github-profile-trophy.vercel.app/?username=lucasdefreitasroberto&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
   <br />
-
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucasdefreitasroberto&bg_color=red&color=bd93f9&line=bd93f9&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasdefreitasroberto&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasdefreitasroberto&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
-
+<hr>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
