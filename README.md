@@ -8,15 +8,16 @@
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat-square&logo=javascript&color=339933&logoColor=339933)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&color=3776AB&logoColor=3776AB)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat-square&logo=go&color=00ADD8)
+
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat-square&logo=mysql&color=4479A1&logoColor=2496ED)
 ![](https://img.shields.io/badge/DB-SQLServer-informational?style=flat-square&logo=microsoft-sql-server&color=CC2927&logoColor=CC2927)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat-square&logo=mongodb&color=47A248&logoColor=47A248)
-<br>
+
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&color=2496ED)
 ![](https://img.shields.io/badge/Tools-Git-black?style=flat-square&logo=git&color=F05032)
 ![](https://img.shields.io/badge/Tools-JIRA-0052CC?style=flat-square&logo=jira&logoColor=0052CC)
 ![](https://img.shields.io/badge/Tools-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-<br>
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&color=FCC624)
 ![](https://img.shields.io/badge/OS-WSL2-ormational?style=flat-square&logo=linux&color=0872CA&logoColor=0872CA)
 <br>
@@ -38,13 +39,13 @@
   </p>
   <br>
 <h3 align="center"> __________________Thunfu___________________</h3>
-
+<!-- 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lucasdefreitasroberto&label=Profile%20views&color=0e75b6&style=flat" alt="lucasdefreitasroberto" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasdefreitasroberto" alt="lucasdefreitasroberto" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
-
+ -->
 <hr>
  <div align="center" >
 <img src="https://github-profile-trophy.vercel.app/?username=lucasdefreitasroberto&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
