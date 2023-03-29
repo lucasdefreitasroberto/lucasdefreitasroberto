@@ -32,8 +32,8 @@
 <hr>
 
 <!-- <details> -->
-  <summary>Idiomas mais usados e estatísticas do GitHub</summary>
-  <br>
+<!--   <summary>Idiomas mais usados e estatísticas do GitHub</summary> -->
+  <br> 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lucasdefreitasroberto&show_icons=true&theme=dracula" alt="lucasdefreitasroberto" /> 
   </p>
@@ -45,6 +45,17 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasdefreitasroberto" alt="lucasdefreitasroberto" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+ <div align="center" >
+<img src="https://github-profile-trophy.vercel.app/?username=lucasdefreitasroberto&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+  <br />
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucasdefreitasroberto&bg_color=red&color=bd93f9&line=bd93f9&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasdefreitasroberto&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasdefreitasroberto&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
