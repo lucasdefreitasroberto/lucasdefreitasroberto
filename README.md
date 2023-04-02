@@ -70,7 +70,7 @@
 
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasdefreitasroberto&show_icons=true&locale=en&layout=compact" alt="lucasdefreitasroberto" /></p>
 
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasdefreitasroberto&show_icons=true&locale=en" alt="lucasdefreitasroberto" />
+<!-- <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasdefreitasroberto&show_icons=true&locale=en" alt="lucasdefreitasroberto" /> -->
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdefreitasroberto&" alt="lucasdefreitasroberto" /></p>
 
