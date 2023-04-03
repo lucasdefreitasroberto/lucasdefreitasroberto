@@ -1,5 +1,8 @@
 <h2 align="center"><b>D</b><i>ev</i><b>D</b><i>ot</i><b>R</b><i>un</i>! :runner:</h2>
 <hr>
+ <br>
+<h3 align="center"> Foco Força e muita Fé </h3>
+ <br>
 <p align="center">
 Meu nome é Lucas, eu sou um desenvolvedor apaixonado por tecnologia e inovação. Desde muito jovem, descobri que minha vocação era criar soluções e impactar a vida das pessoas por meio da tecnologia.
 
@@ -41,8 +44,6 @@ Acredito que a tecnologia pode ser uma ferramenta poderosa para transformar o mu
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lucasdefreitasroberto&show_icons=true&theme=dracula" alt="lucasdefreitasroberto" /> 
   </p>
-  <br>
-<h3 align="center"> Foco Força e muita Fé </h3>
 <!-- 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lucasdefreitasroberto&label=Profile%20views&color=0e75b6&style=flat" alt="lucasdefreitasroberto" /> </p>
 
