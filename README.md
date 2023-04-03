@@ -1,4 +1,17 @@
 <h2 align="center"><b>D</b><i>ev</i><b>D</b><i>ot</i><b>R</b><i>un</i>! :runner:</h2>
+<hr>
+<p align="center">
+Meu nome é Lucas, eu sou um desenvolvedor apaixonado por tecnologia e inovação. Desde muito jovem, descobri que minha vocação era criar soluções e impactar a vida das pessoas por meio da tecnologia.
+
+Além disso, sou um cristão comprometido com meus valores e crenças. Acredito que o amor, a compaixão e a justiça são valores fundamentais para a convivência harmoniosa e o desenvolvimento humano.
+
+Na minha carreira como desenvolvedor, tenho trabalhado em projetos desafiadores e empolgantes, sempre buscando aprimorar minhas habilidades e conhecimentos. Minha paixão pela tecnologia e minha fé em Deus me motivam a buscar soluções criativas e inovadoras para os problemas que enfrentamos no mundo atual.
+
+Acredito que a tecnologia pode ser uma ferramenta poderosa para transformar o mundo e fazer a diferença na vida das pessoas. Estou comprometido em utilizar meus talentos e habilidades para contribuir para um mundo melhor.
+</p>
+
+<hr>
+
 
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square&logo=amazon-aws&color=FF9900&logoColor=FF9900)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&color=777bb4&logoColor=8892BF)
@@ -21,22 +34,7 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&color=FCC624)
 ![](https://img.shields.io/badge/OS-WSL2-ormational?style=flat-square&logo=linux&color=0872CA&logoColor=0872CA)
 <br>
-
-
 <hr>
-
-<p align="center">
-Meu nome é Lucas, eu sou um desenvolvedor apaixonado por tecnologia e inovação. Desde muito jovem, descobri que minha vocação era criar soluções e impactar a vida das pessoas por meio da tecnologia.
-
-Além disso, sou um cristão comprometido com meus valores e crenças. Acredito que o amor, a compaixão e a justiça são valores fundamentais para a convivência harmoniosa e o desenvolvimento humano.
-
-Na minha carreira como desenvolvedor, tenho trabalhado em projetos desafiadores e empolgantes, sempre buscando aprimorar minhas habilidades e conhecimentos. Minha paixão pela tecnologia e minha fé em Deus me motivam a buscar soluções criativas e inovadoras para os problemas que enfrentamos no mundo atual.
-
-Acredito que a tecnologia pode ser uma ferramenta poderosa para transformar o mundo e fazer a diferença na vida das pessoas. Estou comprometido em utilizar meus talentos e habilidades para contribuir para um mundo melhor.
-</p>
-
-<hr>
-
 <!-- <details> -->
 <!--   <summary>Idiomas mais usados e estatísticas do GitHub</summary> -->
   <br> 
@@ -67,6 +65,7 @@ Acredito que a tecnologia pode ser uma ferramenta poderosa para transformar o mu
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/lucas-de-freitas-roberto-2b882711b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-de-freitas-roberto-2b882711b" height="30" width="40" /></a>
+ <a href="mailto:lucasfreitas.t.2@hotmail.com" target="_blank"><img align="center" alt="Gmail" width="26px" src="assets/Gmail.svg" /></a>
 <a href="https://fb.com/lucas.freeitas.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lucas.freeitas.r" height="30" width="40" /></a>
 <a href="https://discord.gg/🅻🅺#3095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="🅻🅺#3095" height="30" width="40" /></a>
 </p>
@@ -83,14 +82,4 @@ Acredito que a tecnologia pode ser uma ferramenta poderosa para transformar o mu
 <!-- </details> -->
 <br>
 <br>
-
-<p align="center" >
-    <a align="center" href="https://www.linkedin.com/in/lucas-de-freitas-roberto-2b882711b/" target="_blank">
-      <img align="center" alt="Linkedin" width="24px" src="assets/Linkedin.svg" />
-    </a>
-    <a href="mailto:lucasfreitas.t.2@hotmail.com
-" target="_blank">
-      <img align="center" alt="Gmail" width="26px" src="assets/Gmail.svg" />
-    </a>
-  
 </p>
