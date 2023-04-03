@@ -44,7 +44,7 @@ Acredito que a tecnologia pode ser uma ferramenta poderosa para transformar o mu
     <img src="https://github-readme-stats.vercel.app/api?username=lucasdefreitasroberto&show_icons=true&theme=dracula" alt="lucasdefreitasroberto" /> 
   </p>
   <br>
-<h3 align="center"> __________________Thunfu___________________</h3>
+<h3 align="center"> Foco Força e muita Fé </h3>
 <!-- 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lucasdefreitasroberto&label=Profile%20views&color=0e75b6&style=flat" alt="lucasdefreitasroberto" /> </p>
 
