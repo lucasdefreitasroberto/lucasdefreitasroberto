@@ -26,7 +26,13 @@
 <hr>
 
 <p align="center">
-11001001 00100000 01100001 01110001 01110101 01101001 00100000 01110001 01110101 01100101 00100000 01100001 00100000 01101101 11100001 01100111 01101001 01100011 01100001 00100000 01100001 01100011 01101111 01101110 01110100 01100101 01100011 01100101 00100001 
+Meu nome é Lucas, eu sou um desenvolvedor apaixonado por tecnologia e inovação. Desde muito jovem, descobri que minha vocação era criar soluções e impactar a vida das pessoas por meio da tecnologia.
+
+Além disso, sou um cristão comprometido com meus valores e crenças. Acredito que o amor, a compaixão e a justiça são valores fundamentais para a convivência harmoniosa e o desenvolvimento humano.
+
+Na minha carreira como desenvolvedor, tenho trabalhado em projetos desafiadores e empolgantes, sempre buscando aprimorar minhas habilidades e conhecimentos. Minha paixão pela tecnologia e minha fé em Deus me motivam a buscar soluções criativas e inovadoras para os problemas que enfrentamos no mundo atual.
+
+Acredito que a tecnologia pode ser uma ferramenta poderosa para transformar o mundo e fazer a diferença na vida das pessoas. Como desenvolvedor e cristão, estou comprometido em utilizar meus talentos e habilidades para contribuir para um mundo melhor.
 </p>
 
 <hr>
