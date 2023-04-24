@@ -23,7 +23,6 @@ Acredito que a tecnologia pode ser uma ferramenta poderosa para transformar o mu
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat-square&logo=javascript&color=339933&logoColor=339933)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&color=3776AB&logoColor=3776AB)
-![](https://img.shields.io/badge/Code-Go-informational?style=flat-square&logo=go&color=00ADD8)
 
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat-square&logo=mysql&color=4479A1&logoColor=2496ED)
 ![](https://img.shields.io/badge/DB-SQLServer-informational?style=flat-square&logo=microsoft-sql-server&color=CC2927&logoColor=CC2927)
