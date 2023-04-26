@@ -6,9 +6,7 @@
 <p align="center">
 Meu nome é Lucas, eu sou um desenvolvedor apaixonado por tecnologia e inovação. Desde muito jovem, descobri que minha vocação era criar soluções e impactar a vida das pessoas por meio da tecnologia.
 
-Além disso, sou um cristão comprometido com meus valores e crenças. Acredito que o amor, a compaixão e a justiça são valores fundamentais para a convivência harmoniosa e o desenvolvimento humano.
-
-Na minha carreira como desenvolvedor, tenho trabalhado em projetos desafiadores e empolgantes, sempre buscando aprimorar minhas habilidades e conhecimentos. Minha paixão pela tecnologia e minha fé em Deus me motivam a buscar soluções criativas e inovadoras para os problemas que enfrentamos no mundo atual.
+Na minha carreira como desenvolvedor, tenho trabalhado em projetos desafiadores e empolgantes, sempre buscando aprimorar minhas habilidades e conhecimentos. Minha paixão pela tecnologia me motivam a buscar soluções criativas e inovadoras para os problemas que enfrentamos no mundo atual.
 
 Acredito que a tecnologia pode ser uma ferramenta poderosa para transformar o mundo e fazer a diferença na vida das pessoas. Estou comprometido em utilizar meus talentos e habilidades para contribuir para um mundo melhor.
 </p>
