@@ -10,7 +10,6 @@ Na minha carreira como desenvolvedor, tenho trabalhado em projetos desafiadores 
 
 Acredito que a tecnologia pode ser uma ferramenta poderosa para transformar o mundo e fazer a diferença na vida das pessoas. Estou comprometido em utilizar meus talentos e habilidades para contribuir para um mundo melhor.
 </p>
-
 <hr>
 
 
