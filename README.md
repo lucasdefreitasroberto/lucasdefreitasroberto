@@ -33,13 +33,10 @@ Acredito que a tecnologia pode ser uma ferramenta poderosa para transformar o mu
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&color=FCC624)
 ![](https://img.shields.io/badge/OS-WSL2-ormational?style=flat-square&logo=linux&color=0872CA&logoColor=0872CA)
 <br>
-<hr>
+
 <!-- <details> -->
 <!--   <summary>Idiomas mais usados e estatísticas do GitHub</summary> -->
   <br> 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucasdefreitasroberto&show_icons=true&theme=dracula" alt="lucasdefreitasroberto" /> 
-  </p>
 <!-- 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lucasdefreitasroberto&label=Profile%20views&color=0e75b6&style=flat" alt="lucasdefreitasroberto" /> </p>
 
@@ -52,8 +49,6 @@ Acredito que a tecnologia pode ser uma ferramenta poderosa para transformar o mu
 <img src="https://github-profile-trophy.vercel.app/?username=lucasdefreitasroberto&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
   <br />
-  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucasdefreitasroberto&bg_color=red&color=bd93f9&line=bd93f9&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasdefreitasroberto&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasdefreitasroberto&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
@@ -74,7 +69,7 @@ Acredito que a tecnologia pode ser uma ferramenta poderosa para transformar o mu
 
 <!-- <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasdefreitasroberto&show_icons=true&locale=en" alt="lucasdefreitasroberto" /> -->
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdefreitasroberto&" alt="lucasdefreitasroberto" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdefreitasroberto" alt="lucasdefreitasroberto" /></p>
 
 <!-- </details> -->
 <br>
