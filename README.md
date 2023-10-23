@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h2><b>D</b><i>ev</i><b>D</b><i>ot</i><b>R</b><i>un</i>! :runner:</h2>
-<h3 align="center"> Foco Força e muita Fé </h3>
+<h3 align="center"> Foco, Força e muita Fé </h3>
  <br>
 <p align="center">
 Meu nome é Lucas, eu sou um desenvolvedor apaixonado por tecnologia e inovação. Desde muito jovem, descobri que minha vocação era criar soluções e impactar a vida das pessoas por meio da tecnologia.
