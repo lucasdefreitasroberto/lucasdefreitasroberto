@@ -77,9 +77,5 @@ Acredito que a tecnologia pode ser uma ferramenta poderosa para transformar o mu
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdefreitasroberto" alt="lucasdefreitasroberto" />
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
-</div>
-
 <br>
 <br>
