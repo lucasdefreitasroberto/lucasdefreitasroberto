@@ -1,15 +1,18 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h2><b>D</b><i>ev</i><b>D</b><i>ot</i><b>R</b><i>un</i>! :runner:</h2>
+<div align="center">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+</div>
+<!-- 
 <h3 align="center">Foco, Força e muita Fé</h3>
 <br>
 <p align="center">
-Meu nome é Lucas, eu sou um desenvolvedor apaixonado por tecnologia e inovação. Desde muito jovem, descobri que minha vocação era criar soluções e impactar a vida das pessoas por meio da tecnologia.
-
+<!-- Meu nome é Lucas, eu sou um desenvolvedor apaixonado por tecnologia e inovação. Desde muito jovem, descobri que minha vocação era criar soluções e impactar a vida das pessoas por meio da tecnologia.
+<!-- 
 Na minha carreira como desenvolvedor, tenho trabalhado em projetos desafiadores e empolgantes, sempre buscando aprimorar minhas habilidades e conhecimentos. Minha paixão pela tecnologia me motiva a buscar soluções criativas e inovadoras para os problemas que enfrentamos no mundo atual.
-
+<!-- 
 Acredito que a tecnologia pode ser uma ferramenta poderosa para transformar o mundo e fazer a diferença na vida das pessoas. Estou comprometido em utilizar meus talentos e habilidades para contribuir para um mundo melhor.
-</p>
-
+</p> -->
+ 
 <hr>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lucasdefreitasroberto&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
