@@ -1,4 +1,6 @@
+<!-- 
 <h2><b>D</b><i>ev</i><b>D</b><i>ot</i><b>R</b><i>un</i>! :runner:</h2>
+-->
 <div align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </div>
