@@ -90,11 +90,13 @@ Acredito que a tecnologia pode ser uma ferramenta poderosa para transformar o mu
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrAW2u1snlURz1IWA5Ti_vHITSr_mhxH9JairQteRBDg&s" alt="postgresql" width="40" height="40"/>
   </a>
 </p>
-
+ 
+<!--  
 <h3 align="center">Estatísticas do GitHub</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasdefreitasroberto&show_icons=true&locale=en&layout=compact" alt="lucasdefreitasroberto" />
 </p>
+ -->
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdefreitasroberto" alt="lucasdefreitasroberto" />
